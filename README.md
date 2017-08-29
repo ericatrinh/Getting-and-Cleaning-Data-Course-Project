@@ -5,10 +5,10 @@ date: "August 28, 2017"
 ---
 
 ##Summary
-This respository contains a script that takes in the files with data collected from the accelerometers from the Samsung Galaxy S smartphone and returns a tidy table with the average
-mean and standard deviation for each category measured.
+This respository contains a script that takes in the files with data collected from the accelerometers from the Samsung Galaxy S smartphone and returns a tidy table with the average mean and standard deviation for each category measured.
 
 ##Data
+Data is found in the UCI HAR Dataset folder.
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
