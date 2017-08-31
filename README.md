@@ -5,7 +5,7 @@ date: "August 28, 2017"
 ---
 
 ## Summary
-This respository contains a script that takes in the files with data collected from the accelerometers from the Samsung Galaxy S smartphone and returns a tidy table with the average mean and standard deviation for each category measured.
+This respository contains a script that reads data collected from the accelerometers from the Samsung Galaxy S smartphone and returns a tidy table with the average mean and standard deviation for each category measured.
 1. Reads in features to get column names
 2. Read in data from test and training files
 3. Merge data from test and train files into one dataset
