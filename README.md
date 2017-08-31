@@ -6,6 +6,13 @@ date: "August 28, 2017"
 
 ## Summary
 This respository contains a script that takes in the files with data collected from the accelerometers from the Samsung Galaxy S smartphone and returns a tidy table with the average mean and standard deviation for each category measured.
+1. Reads in features to get column names
+2. Read in data from test and training files
+3. Merge data from test and train files into one dataset
+4. Extract columns that contain the mean and standard deviation
+5. Replace activity label
+6. Reformat label so to fit tidy table requirements
+7. Create and save tidy table
 
 ## Data
 Data is found in the UCI HAR Dataset folder.
