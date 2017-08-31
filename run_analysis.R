@@ -1,5 +1,5 @@
 run_analysis <- function(){
-    # read data and makes a table
+    # reads files with column names
     columnNames <- read.table("./UCI HAR Dataset/features.txt") 
     
     #creates table from files in test directory
